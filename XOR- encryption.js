@@ -1,5 +1,5 @@
-<script src="sjcl.javascript"></script>
-<script src="bitArray.javascript"></script>
+<script src="sjcl.js"></script>
+<script src="bitArray.js"></script>
 <script>
 function xor(key,msg)
 {
